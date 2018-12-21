@@ -1,2 +1,1 @@
-#!/bin/bash
-sudo su yum install talk -y
+yum install talk -y
